@@ -1,12 +1,6 @@
-<!-- xkit package spec. Specs = Docs: this is xkit's own standing spec, carried in its own repo.
-     Public + self-contained — references only public peers by URL, never private system docs.
-     Per C-41 this describes the standalone component (the box + its interface), never the system wiring. -->
-
 # xkit — the shared design system, render component, and API client
 
 `@xresearch/xkit` · identity + metadata in the [repo README](../README.md)
-
-This document is xkit's own spec. Per **Specs = Docs**, it lives in this repo and is self-contained: an external contributor reads it without any private repo. It references only public peers — [`xcontract`](https://github.com/xresearch-it/xcontract) (the normative DTOs/Zod/enums) and [`xresearch-std`](https://github.com/xresearch-it/xresearch-std) (the coding constraints `C-n` cited throughout) — by URL.
 
 ## Responsibility
 
