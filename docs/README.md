@@ -4,14 +4,7 @@
 
 # xkit — the shared design system, render component, and API client
 
-- **Package** `@xresearch/xkit`
-- **Layer** 3 shared
-- **Visibility** public
-- **License** Apache-2.0
-- **Language** TS
-- **Status** active
-- **Depends on** xcontract
-- **Style** [xresearch-std/CODING-STYLE.md](https://github.com/xresearch-it/xresearch-std)
+`@xresearch/xkit` · identity + metadata in the [repo README](../README.md)
 
 This document is xkit's own spec. Per **Specs = Docs**, it lives in this repo and is self-contained: an external contributor reads it without any private repo. It references only public peers — [`xcontract`](https://github.com/xresearch-it/xcontract) (the normative DTOs/Zod/enums) and [`xresearch-std`](https://github.com/xresearch-it/xresearch-std) (the coding constraints `C-n` cited throughout) — by URL.
 
