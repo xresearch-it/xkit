@@ -1,0 +1,9 @@
+{
+  "name": "@xresearch/xkit",
+  "version": "0.0.0",
+  "private": false,
+  "type": "module",
+  "dependencies": {
+    "@xresearch/xcontract": "*"
+  }
+}
