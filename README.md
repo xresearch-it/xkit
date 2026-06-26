@@ -10,6 +10,6 @@
 
 ## What it is
 
-xkit is the shared front-of-house: design tokens, the two-axis honesty marks, the graph/detail render primitives, and the generated API client. Every surface (xpaper, xthread, …) composes over it so the UI vocabulary stays one.
+xkit is the shared front-of-house: design tokens, the two-axis honesty marks, the graph/detail render primitives, and the generated API client. Every surface (`xread`, `xreview`, `xcite`, …) composes over it so the UI vocabulary stays one.
 
 **Full spec — interface, behaviour, invariants, build → [`docs/README.md`](docs/README.md).**
